@@ -66,6 +66,7 @@
 		51782C72233B05330046EBE3 /* AppUtils+UILongPressGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51782C3E233B05330046EBE3 /* AppUtils+UILongPressGestureRecognizer.swift */; };
 		51782C73233B05330046EBE3 /* AppUtils+UIPinchGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51782C3F233B05330046EBE3 /* AppUtils+UIPinchGestureRecognizer.swift */; };
 		51782C74233B05330046EBE3 /* AppUtilsNameSpace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51782C40233B05330046EBE3 /* AppUtilsNameSpace.swift */; };
+		51782C77233B12F20046EBE3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51782C76233B12F20046EBE3 /* SceneDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -151,6 +152,7 @@
 		51782C3E233B05330046EBE3 /* AppUtils+UILongPressGestureRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AppUtils+UILongPressGestureRecognizer.swift"; sourceTree = "<group>"; };
 		51782C3F233B05330046EBE3 /* AppUtils+UIPinchGestureRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AppUtils+UIPinchGestureRecognizer.swift"; sourceTree = "<group>"; };
 		51782C40233B05330046EBE3 /* AppUtilsNameSpace.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppUtilsNameSpace.swift; sourceTree = "<group>"; };
+		51782C76233B12F20046EBE3 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +206,7 @@
 			children = (
 				51782C75233B061C0046EBE3 /* Classes */,
 				51782BC8233B019D0046EBE3 /* AppDelegate.swift */,
+				51782C76233B12F20046EBE3 /* SceneDelegate.swift */,
 				51782BCC233B019D0046EBE3 /* ViewController.swift */,
 				51782BCE233B019D0046EBE3 /* Main.storyboard */,
 				51782BD1233B019E0046EBE3 /* Assets.xcassets */,
@@ -500,6 +503,7 @@
 				51782C62233B05330046EBE3 /* AppUtils+UIScrollView.swift in Sources */,
 				51782C57233B05330046EBE3 /* AppUtils+WKWebView.swift in Sources */,
 				51782C52233B05330046EBE3 /* AppBaseTabBarController.swift in Sources */,
+				51782C77233B12F20046EBE3 /* SceneDelegate.swift in Sources */,
 				51782C5B233B05330046EBE3 /* AppUtils+UIWebView.swift in Sources */,
 				51782C48233B05330046EBE3 /* UITabBarControllerExtension.swift in Sources */,
 				51782C4E233B05330046EBE3 /* AppDeviceInfo.swift in Sources */,
