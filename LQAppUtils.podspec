@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.summary      = 'iOS 公共工具'
   spec.homepage     = 'https://github.com/lqIphone/AppUtilsDemo'
   spec.source       = { :git => 'https://github.com/lqIphone/AppUtilsDemo.git', :tag => '1.2.2' }
-  spec.source_files  = "AppUtilsDemo/Classes/**.swift"
+  spec.source_files  = "AppUtilsDemo/Classes/**/*.swift"
   spec.requires_arc = true
   spec.platform     = :ios, "9.0"
   spec.swift_version = '4.2'
